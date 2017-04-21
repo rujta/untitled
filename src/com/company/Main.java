@@ -6,6 +6,9 @@ public class Main {
 	// write your code here
         System.out.println("hello" +
                 "");
-        System.out.println("war III");
+<<<<<<< HEAD
+=======
+        System.out.println("world");
+>>>>>>> first_branch
     }
 }
