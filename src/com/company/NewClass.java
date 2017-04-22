@@ -5,4 +5,5 @@ package com.company;
  */
 public class NewClass {
     String bla;
+    String gg;
 }
